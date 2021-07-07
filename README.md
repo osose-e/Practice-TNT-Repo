@@ -1,2 +1,4 @@
 # Practice-TNT-Repo
-# John Moses, v-johnmoses@microsoft.com, I LOVE THE CONFLICT
+# John Moses, 
+# v-johnmoses@microsoft.com, 
+# I LOVE THE CONFLICT
